@@ -65,7 +65,8 @@ footer p {
   width: 50%;
   height: 100%;
   background-color: white;
-  padding: 150px;
+  padding: 30px;
+  margin-left: -60px;
 }
 
 .container-direita h2 {
